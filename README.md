@@ -2,7 +2,7 @@
 ## I'm student at Chitkara University, Punjab currently pursuing B.Tech in Computer Science
 # Tech Entusiast | Student | Market Expert 
 
-Skills : C++, React, Bootstrap, NPM, Trading
+Skills : java,C++, React, Bootstrap, NPM, Trading
 
 
 - 🔭 I’m currently working on Deep Learning Models To Do Prediction For Covid19 Through Lungs Scans
